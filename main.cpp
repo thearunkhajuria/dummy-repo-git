@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+//quicksort
+void quicksort(){
+	// quicksort function
+}
+
 void bubbleSort(){
 	// bubblesort function added
 }
