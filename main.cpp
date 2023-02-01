@@ -14,6 +14,10 @@ void mergeSort(){
 	// merge sort function
 }
 
+void insertionSort(){
+	// merge sort function
+}
+
 int main()
 {
 	cout << "I am Arun" << endl;
