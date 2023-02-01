@@ -10,6 +10,10 @@ void bubbleSort(){
 	// bubblesort function added
 }
 
+void mergeSort(){
+	// merge sort function
+}
+
 int main()
 {
 	cout << "I am Arun" << endl;
